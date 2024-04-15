@@ -1,0 +1,3 @@
+[submodule "sevir/eie-sevir"]
+	path = sevir/eie-sevir
+	url = https://github.com/MIT-AI-Accelerator/eie-sevir.git
